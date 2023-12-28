@@ -6,7 +6,7 @@ from faker import Faker
 fake = Faker()
 
 # Set your OpenAI GPT-3 API key
-api_key = "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"
+api_key = "redacted"
 openai.api_key = api_key
 
 # Function to generate a synthetic diary entry using GPT-3
